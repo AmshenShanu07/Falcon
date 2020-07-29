@@ -23,6 +23,7 @@ pkg install figlet -y
 cd ig
 pip2 install mechanize
 pip install -r requirements.txt
+cd ..
 echo ''
 sleep 1
 clear
