@@ -7,6 +7,9 @@ pip install urllib
 pip install bs4
 sleep 1
 clear
+cd HackPhiles
+chmod +x *
+cd ..
 python HackPhiles/install.py
 echo ''
 cd ig
