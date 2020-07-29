@@ -14,7 +14,7 @@
 
 ```pkg install git```
 
-```git clone ```
+```git clone https://github.com/AmshenShanu07/HackPhiles.git```
 
 ```chmod +x *```
 
