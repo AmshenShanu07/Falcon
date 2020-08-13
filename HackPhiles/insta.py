@@ -19,7 +19,7 @@ def write(in_text):
 		sys.stdout.write(char)
 		sys.stdout.flush()
 
-write(f"{gr}[+]{mg}Coded by AmshenShanu{nu}....")
+write(f"{gr}[+]{mg}Coded by @Green_Hat{nu}....")
 print(f"{cy}\n------------------------")
 time.sleep(1)
 write(f"{gr}[+]{re}Starting Instagram Bruteforce{nu}...")
