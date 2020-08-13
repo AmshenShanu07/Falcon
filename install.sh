@@ -5,6 +5,7 @@ pip install string
 pip install collections
 pip install urllib
 pip install bs4
+pip install colorama
 sleep 1
 clear
 cd HackPhiles
@@ -22,6 +23,7 @@ pkg install python2  -y
 pkg install figlet -y
 cd ig
 pip2 install mechanize
+pip install requests
 pip install -r requirements.txt
 cd ..
 echo ''
