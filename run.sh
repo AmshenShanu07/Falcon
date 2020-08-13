@@ -7,7 +7,7 @@ printf "\e[1;77m     |  _  |/ _' |/ __| |/ /  __/| '_ \| | |/ _ \/ __|  \e[31m\n
 printf "\e[1;77m     | | | | (_| | (__|   <| |   | | | | | |  __/\__ \  \e[31m\n"
 printf "\e[1;77m     \_| |_/\__,_|\___|_|\_\_|   |_| |_|_|_|\___||___/  \e[31m\n"
 printf "\n"
-printf "\e[1;93m       .:.:.\e[0m\e[1;77m BruteForce Tool coded by:AmshenShanu From HackPhiles community\e[0m\e[1;93m .:.:.\e[0m\n"
+printf "\e[1;93m       .:.:.\e[0m\e[1;77m BruteForce Tool coded by:@Green_Hat From HackPhiles community\e[0m\e[1;93m .:.:.\e[0m\n"
 printf "\n"
 printf "  \e[101m\e[1;77m:: Disclaimer: Developers assume no liability and are not    ::\e[0m\n"
 printf "  \e[101m\e[1;77m:: responsible for any misuse or damage caused by HackPhiles ::\e[0m\n"
