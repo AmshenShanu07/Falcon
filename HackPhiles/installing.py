@@ -19,10 +19,10 @@ def write(in_text):
 		sys.stdout.write(char)
 		sys.stdout.flush()
 
-write(f"{gr}[+]{mg}Coded by AmshenShanu{nu}....")
+write(f"{gr}[+]{mg}Coded by @Green_Hat{nu}....")
 print(f"{cy}\n------------------------")
 time.sleep(1)
-write(f"{gr}[+]{re} Thanks to @Green_Hat community{nu}...")
+write(f"{gr}[+]{re} Thanks to HackPhiles community{nu}...")
 print(f"\n-----------------------------")
 write(f"\n{gr}[+]{mg}Start your tool by ./run  {nu} ")
 print("\n")
