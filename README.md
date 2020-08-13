@@ -24,4 +24,6 @@
 
 
 ## Thanks to:
-[HackPhiles Community(https://t.me/httpstmejoinchatKRMA6RuflY&ved=2ahUKEwiil532wpjrAhXCXSsKHfShBOsQjjgwAHoECAEQAQ&usg=AOvVaw22Zchd2BrXRf-s_-q(Qd9QC)
+[+]HackPhiles Community
+
+<a href="https://t.me/httpstmejoinchatKRMA6RuflY"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
