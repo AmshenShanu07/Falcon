@@ -16,6 +16,8 @@
 
 ```git clone https://github.com/AmshenShanu07/HackPhiles.git```
 
+```cd HacpPhiles```
+
 ```chmod +x *```
 
 ```bash install.sh```
