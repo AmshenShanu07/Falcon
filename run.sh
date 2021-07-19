@@ -1,11 +1,21 @@
 banner() {
 
-printf "\e[1;77m      _   _            _   ______ _     _ _             \e[97m\n"
-printf "\e[1;77m     | | | |          | |  | ___ \ |   (_) |            \e[97m\n"
-printf "\e[1;77m     | |_| | __ _  ___| | _| |_/ / |__  _| | ___  ___   \e[97m\n"
-printf "\e[1;77m     |  _  |/ _' |/ __| |/ /  __/| '_ \| | |/ _ \/ __|  \e[31m\n"
-printf "\e[1;77m     | | | | (_| | (__|   <| |   | | | | | |  __/\__ \  \e[31m\n"
-printf "\e[1;77m     \_| |_/\__,_|\___|_|\_\_|   |_| |_|_|_|\___||___/  \e[31m\n"
+printf "\e[1;77m      ______    _                   \e[97m\n"
+printf "\e[1;77m     |  ____|  | |                  \e[97m\n"
+printf "\e[1;77m     | |__ __ _| | ___ ___  _ __    \e[97m\n"
+printf "\e[1;77m     |  __/ _  | |/ __/ _ \|   _ \  \e[31m\n"
+printf "\e[1;77m     | | | (_| | | (_| (_) | | | | \e[31m\n"
+printf "\e[1;77m     |_|  \__ _|_|\___\___/|_| |_|  \e[31m\n"
+                  
+                 
+ 
+  
+ 
+ 
+                              
+                              
+
+
 printf "\n"
 printf "\e[1;93m       .:.:.\e[0m\e[1;77m BruteForce Tool coded by:@Green_Hat From HackPhiles community\e[0m\e[1;93m .:.:.\e[0m\n"
 printf "\n"
